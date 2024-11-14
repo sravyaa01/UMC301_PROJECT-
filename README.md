@@ -37,8 +37,8 @@
 ---
 
 ##  Project Structure
-
-'''sh
+ 
+```sh
 └── ai-support-for-mental-health-wellbeing/
     ├── README.md
     ├── Screenshot 2024-11-14 170315.png
@@ -55,8 +55,7 @@
     ├── predict_stress.py
     ├── requirements.txt
     └── session_state.py
-'''
-
+```
 
 ---
 ##  Getting Started
