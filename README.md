@@ -77,7 +77,7 @@ Install ai-support-for-mental-health-wellbeing using one of the following method
 
 1. Clone the ai-support-for-mental-health-wellbeing repository:
 sh
-❯ git clone https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing
+❯ git clone https://github.com/sravyaa01/UMC301_PROJECT-.git
 
 
 2. Navigate to the project directory:
@@ -121,48 +121,5 @@ sh
 - [X] **Task 1**: <strike>Implement feature one.</strike>
 - [ ] **Task 2**: Implement feature two.
 - [ ] **Task 3**: Implement feature three.
-
----
-
-##  Contributing
-
-- *💬 [Join the Discussions](https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/discussions)*: Share your insights, provide feedback, or ask questions.
-- *🐛 [Report Issues](https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/issues)*: Submit bugs found or log feature requests for the ai-support-for-mental-health-wellbeing project.
-- *💡 [Submit Pull Requests](https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing/blob/main/CONTRIBUTING.md)*: Review open PRs, and submit your own PRs.
-
-<details closed>
-<summary>Contributing Guidelines</summary>
-
-1. *Fork the Repository*: Start by forking the project repository to your github account.
-2. *Clone Locally*: Clone the forked repository to your local machine using a git client.
-   sh
-   git clone https://github.com/sasmitahs/ai-support-for-mental-health-wellbeing
-   
-3. *Create a New Branch*: Always work on a new branch, giving it a descriptive name.
-   sh
-   git checkout -b new-feature-x
-   
-4. *Make Your Changes*: Develop and test your changes locally.
-5. *Commit Your Changes*: Commit with a clear message describing your updates.
-   sh
-   git commit -m 'Implemented new feature x.'
-   
-6. *Push to github*: Push the changes to your forked repository.
-   sh
-   git push origin new-feature-x
-   
-7. *Submit a Pull Request*: Create a PR against the original project repository. Clearly describe the changes and their motivations.
-8. *Review*: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
-</details>
-
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/sasmitahs/ai-support-for-mental-health-wellbeing/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=sasmitahs/ai-support-for-mental-health-wellbeing">
-   </a>
-</p>
-</details>
 
 ---
